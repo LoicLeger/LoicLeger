@@ -5,7 +5,7 @@
 I'm Loïc LEGER, i'm in progress to be web developer.
 
 ### Personal side 🙋‍♂️
-I have 27 years old and i'm comming from front of paris. I have two two-year-old cats and a young dog. I ha ve passion for video's games(#TeamPC) and handball. I like trying new practices. I like w<atcxh any sport in the tv but i prefer to watch football.
+I have 27 years old and i'm comming from front of paris. I have two two-year-old cats and a young dog. I ha ve passion for video's games(#TeamPC) and handball. I like trying new practices. I like watcxh any sport in the tv but i prefer to watch football.
 
 ###  Professional side 💻
 I spent 10 years working in the social sector, helping children and young people thrive. Now, I’m embarking on a career change to focus on my personal growth and future opportunities. My goal is to one day run my own business. I have a foundational knowledge of CSS and HTML and am committed to developing my skills further to become a well-rounded full-stack developer.
