@@ -23,6 +23,5 @@ I spent 10 years working in the social sector, helping children and young people
 ### In progress
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript&labelColor=gray&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/PHP-gray?logo=PHP&labelColor=gray&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/React-gray?logo=react&labelColor=gray&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/NodeJS-gray?logo=nodedotjs&labelColor=gray&color=%235FA04E)
